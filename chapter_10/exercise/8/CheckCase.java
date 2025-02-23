@@ -5,9 +5,8 @@ class CheckCase {
             return;
         }
         String inputWord = args[0];
-        char initialChar = inputWord.charAt(0);
         boolean isAllLowerCase = inputWord.equals(inputWord.toLowerCase());
-        boolean hasUpperCaseInitial = Character.isUpperCase(initialChar);
+        boolean hasUpperCaseInitial = Character.isUpperCase(inputWord.charAt(0));
         if (inputWord.contains("_")) {
             if (isAllLowerCase) {
                 System.out.println("snake_case");
