@@ -1,4 +1,4 @@
-package chapter_16.points;
+package basis.chapter_16.points;
 
 import java.util.EnumSet;
 

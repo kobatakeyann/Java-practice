@@ -1,4 +1,4 @@
-package chapter_16.exercise;
+package basis.chapter_16.exercise;
 
 public enum State {
     AVAILABLE("貸出可能"), CHECKED_OUT("貸出中"), DEACCESSIONED("廃止");
