@@ -1,6 +1,6 @@
-package chapter_12.points.class_split.apps;
+package basis.chapter_12.points.class_split.apps;
 
-import chapter_12.points.class_split.utils.ArrayOperations;
+import basis.chapter_12.points.class_split.utils.ArrayOperations;
 
 public class VarianceArgs {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package chapter_12.points.class_split.utils;
+package basis.chapter_12.points.class_split.utils;
 
 public class ArrayOperations {
     public static double[] convertToDoubleNums(String[] args) {
