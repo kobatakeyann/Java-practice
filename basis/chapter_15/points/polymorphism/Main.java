@@ -1,4 +1,4 @@
-package chapter_15.points.polymorphism;
+package basis.chapter_15.points.polymorphism;
 
 import java.util.List;
 

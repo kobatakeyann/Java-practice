@@ -1,4 +1,4 @@
-package chapter_15.points.polymorphism;
+package basis.chapter_15.points.polymorphism;
 
 // 子クラス
 class Japanase extends Human {

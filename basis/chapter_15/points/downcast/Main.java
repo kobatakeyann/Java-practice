@@ -1,4 +1,4 @@
-package chapter_15.points.downcast;
+package basis.chapter_15.points.downcast;
 
 class Main {
     public static void main(String[] args) {
