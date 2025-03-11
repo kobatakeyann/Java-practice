@@ -1,5 +1,3 @@
-package training_text.chapter_4.points.scanner;
-
 import java.util.Scanner;
 
 class ScannerSample {
