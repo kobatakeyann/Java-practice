@@ -1,4 +1,4 @@
-package chapter_17.points;
+package basis.chapter_17.points;
 
 // オリジナル例外クラスの定義
 class MyOriginalException extends Exception {

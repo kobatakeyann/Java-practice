@@ -1,4 +1,4 @@
-package chapter_17.points;
+package basis.chapter_17.points;
 
 class Main {
     public static void main(String[] args) {
